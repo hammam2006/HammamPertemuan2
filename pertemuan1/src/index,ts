@@ -1,0 +1,3 @@
+let kocak : string = "kocak"
+
+console.log(kocak);
